@@ -9,18 +9,18 @@
   <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   <style>
     #nav_per {
-      min-height: 6rem;
+      min-height: 4rem;
     }
 
     #navbar-it img{
-      min-height: 6rem;
+      min-height: 4rem;
     }
   </style>
   <title>Directorio</title>
 </head>
 
 <body>
-  <nav class="navbar" role="navigation" aria-label="main navigation" id="nav_per">
+  <nav class="navbar is-warning" role="navigation" aria-label="main navigation" id="nav_per">
     <div class="navbar-brand">
       <a class="navbar-item" href="" id="navbar-it">
         <img src="/img/logo_directorio.png" >
